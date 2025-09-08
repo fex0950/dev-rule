@@ -1,5 +1,15 @@
 ## 域名
+
 ### 运营后台
-adminjxlm-test.vlebo.cn
+
+- test
+  - adminjxlm-test.vlebo.cn
+- prod
+  - adminjxlm.vlebo.cn
+
 ### 供应商端
-jxlm.vlebo.cn
+
+- test
+  - jxlm-test.vlebo.cn
+- prod
+  - jxlm.vlebo.cn
