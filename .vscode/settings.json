@@ -5,7 +5,7 @@
   "markdown.validate.enabled": true,
   "github.copilot.chat.commitMessageGeneration.instructions": [
     {
-      "text": "用中文生成 commit message。使用常见的 git commit 规范格式，如 feat:、fix:、docs: 等前缀，前缀保留英文，描述部分使用中文。"
+      "text": "生成的 commit message 以中文为主，可以中英混用。例如：'feat: 添加直播统计模块的 dashboard 设计方案'、'fix: 修复 API 请求的参数错误'。"
     }
   ]
 }
