@@ -1,0 +1,83 @@
+{
+  "analysis_date": "2025-09-12",
+  "target_monthly_income": 5000,
+  "analysis_scope": "合规线上商业项目",
+  "evaluation_criteria": {
+    "compliance": 40,
+    "profitability": 30,
+    "operability": 20,
+    "risk_control": 10
+  },
+  "top_recommendations": [
+    {
+      "rank": 1,
+      "project_name": "数字产品销售",
+      "score": 4.5,
+      "estimated_monthly_income": 5544,
+      "startup_cost": 500,
+      "time_to_target": "3个月",
+      "automation_potential": 5,
+      "key_advantages": [
+        "最高自动化潜力",
+        "最低启动成本",
+        "高毛利率90%",
+        "最低获客成本"
+      ]
+    },
+    {
+      "rank": 2,
+      "project_name": "知识付费课程",
+      "score": 4.3,
+      "estimated_monthly_income": 7479,
+      "startup_cost": 2000,
+      "time_to_target": "4个月",
+      "automation_potential": 4,
+      "key_advantages": [
+        "建立个人品牌",
+        "长期可持续收入",
+        "专业壁垒优势",
+        "口碑传播效应"
+      ]
+    }
+  ],
+  "other_candidates": [
+    {
+      "project_name": "技术服务外包",
+      "score": 4.2,
+      "estimated_monthly_income": 10000
+    },
+    {
+      "project_name": "在线培训咨询",
+      "score": 4.1,
+      "estimated_monthly_income": 9000
+    },
+    {
+      "project_name": "自媒体内容创作",
+      "score": 4.0,
+      "estimated_monthly_income": 8000
+    }
+  ],
+  "market_trends": {
+    "digital_education": "2025年在线教育市场将突破7000亿元",
+    "knowledge_payment": "知识付费成为内容创作者主要收益渠道",
+    "digital_products": "数字化产品需求持续增长",
+    "policy_support": "教育部门大力推进教育数字化转型"
+  },
+  "compliance_requirements": [
+    "严格遵守平台规则",
+    "提供真实有价值的产品服务",
+    "诚信经营重视用户体验",
+    "合法纳税规范财务管理"
+  ],
+  "execution_timeline": {
+    "T0_research": "2025-09-12 至 2025-09-19",
+    "T1_mvp_test": "2025-09-20 至 2025-10-20",
+    "T2_scale": "2025-10-21 开始"
+  },
+  "key_success_factors": [
+    "持续内容输出和质量保证",
+    "精准定位和用户运营",
+    "多平台布局和流量获取",
+    "合规经营和长期发展思维"
+  ]
+}
